@@ -1,0 +1,22 @@
+.mainContent
+{
+    width:80%;
+    margin-left:auto;
+}
+h1
+{
+    border: 2px solid blue;
+    width: fit-content;
+    block-size: fit-content;
+    font-size: large;
+}
+.output
+{
+    border: 2px solid blue;
+    width: fit-content;
+    block-size: fit-content;
+    font-size: large;
+    background-image: url(weather.jpg);
+    text-align: center;
+    width: 500px;
+}
